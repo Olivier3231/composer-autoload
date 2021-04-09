@@ -1,0 +1,17 @@
+{
+    "name": "olivier/quete_comoser",
+    "description": "quete composer",
+    "authors": [
+        {
+            "name": "Olivier3231",
+            "email": "maffrolivier74@gmail.com"
+        }
+    ],
+    "require": {},
+    
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+
+    
+}
